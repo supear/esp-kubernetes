@@ -223,8 +223,6 @@ To prepare for deployment, follow these steps:
    git clone https://github.com/sassoftware/esp-kubernetes.git
    ```
 
-**DO WE NEED THIS LAST STEP ANYMORE?**
-
 1. Record the list of assets that you need to complete the deployment, which
    looks something like this:
 
